@@ -1,8 +1,8 @@
 Android_MediaPlayer_Demo
 
+using our LanSoSdk to build an android Video player project.
 
-
-using our LanSoSdk to build an android Video player:https://github.com/LanSoSdk/LanSoSdkPlayDemo; 
+https://github.com/LanSoSdk/LanSoSdkPlayDemo; 
 
 
 
